@@ -46,7 +46,8 @@ This dashboard can be extended and reused in a variety of projects:
 
 
 
-## 🙋‍♂️ Author
+## Author
 
-Made by **Mohit** – B.Tech CSE (AI & ML) | Passionate about Backend & Machine Learning  
+Made by **Mohit** 
+(A work in Progress)
 
